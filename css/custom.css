@@ -28,3 +28,6 @@ header.masthead{
         font-size: 4rem;
     }
 }
+iframe, img{
+    max-width: 100%;
+}
