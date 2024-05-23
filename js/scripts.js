@@ -53,7 +53,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
     // text animation
       // Define the text to be inserted
-  var newText = "Ngày giải phóng <br>miền nam Thống nhất đất nước";
+  var newText = "Ngày giải phóng <br>miền nam Thống nhất <br>đất nước";
 
   // Initialize Typed.js
   var typed = new Typed('#text', {
